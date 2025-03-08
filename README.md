@@ -5,7 +5,7 @@ Developing projects related to Roblox. Mainly developing through Lua, but in the
 
 # Script
 ```lua
-print("not released")
+loadstring(game:HttpGet('https://raw.githubusercontent.com/AddressDev/Krypton/main/Lua/MainLoader.lua'))()
 ```
 
 # Contribution
