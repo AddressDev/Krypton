@@ -1,6 +1,6 @@
 # Krypton
 
-Developing projects related to Roblox. Mainly developing through Lua, but in the future also developing Python-based programs. But Korean
+Developing projects related to Roblox. Mainly developing through Lua, but in the future also developing Python-based programs. I'm Korean
 
 
 # Script
